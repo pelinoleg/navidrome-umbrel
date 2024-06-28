@@ -1,0 +1,29 @@
+manifestVersion: 1
+id: navidrome
+name: Navidrome
+tagline: Self-hosted Music Server
+icon: https://svgshare.com/i/17hb.svg
+category: media
+version: "1.0.0"
+port: 4533
+description: >-
+  A Docker container for Navidrome, allowing you to stream your music collection from anywhere.
+
+developer: Pelin Oleg
+website: https://github.com/pelinoleg/navidrome-umbrel
+submitter: Pelin Oleg
+submission: https://github.com/pelinoleg/navidrome-umbrel
+repo: https://github.com/pelinoleg/navidrome-umbrel
+support: https://github.com/pelinoleg/navidrome-umbrel/issues
+
+gallery:
+  - https://repository-images.githubusercontent.com/52481933/42e63ef0-8e1e-44e3-a7d2-4eafda8ba256
+  - https://media.wiki-power.com/img/20230531212854.png
+  - https://www.navidrome.org/screenshots/light-albums-view.png
+
+releaseNotes: >-
+  Initial release of Navidrome on Umbrel.
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
